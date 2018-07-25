@@ -1,5 +1,5 @@
 {
-    "name": "composer-package-helloworld",
+    "name": "reorde/composer-package-helloworld",
     "description": "My first Composer project",
     "type": "library",
     "license": "MIT",
